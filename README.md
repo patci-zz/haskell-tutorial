@@ -8,3 +8,13 @@
 5. When ready (in terminal), create a new file, `first-haskell.hs` for example.
 6. `ghci` to begin interactive session (`:quit` or CTRL + d to exit session).
 7. `:load your-file` to load in our new file! 
+8. 
+
+These are comments in haskell:
+```hs
+-- comment, or ...
+
+{-
+comments here!
+-}
+```
