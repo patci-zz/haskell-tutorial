@@ -1,2 +1,4 @@
-# haskell-tutorial
-Install some Haskell!
+# Haskell Tutorial
+### Install some Haskell!
+
+1. Go to https://www.haskell.org/platform/
