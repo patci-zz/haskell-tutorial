@@ -12,9 +12,10 @@
 
 These are comments in haskell:
 ```hs
--- comment, or ...
-
+-- single line comment.
+```
+```hs
 {-
-comments here!
+multi-line comment.
 -}
 ```
