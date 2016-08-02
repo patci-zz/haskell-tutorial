@@ -8,7 +8,6 @@
 5. When ready, create a new file (in terminal of course), `first-haskell.hs`.
 6. Type `ghci` to begin interactive session (`:quit` , `:q` or CTRL + d to exit session).
 7. Type `:load first-haskell` to load in your new file! 
-8. 
 
 These are comments in haskell:
 ```hs
