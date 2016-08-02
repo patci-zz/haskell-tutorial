@@ -18,6 +18,7 @@ These are comments in haskell:
 multi-line comment.
 -}
 ```
+
 >"We don’t write
 Haskell because we’re geniuses — we use tools like Haskell because we’re
 not geniuses and it helps us. Good tools like Haskell enable us to work
