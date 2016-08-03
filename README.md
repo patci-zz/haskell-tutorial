@@ -18,6 +18,8 @@ These are comments in haskell:
 multi-line comment.
 -}
 ```
+Commands within ghci begin with a single colon (:)
+For instance, `:quit` will exit ghci, and `:load` when passed into it a .hs file type, will load in its contents.
 
 >"We don’t write
 Haskell because we’re geniuses — we use tools like Haskell because we’re
