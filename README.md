@@ -6,7 +6,9 @@
 3. Install the downloaded package to your machine. :sunglasses:
 4. Follow any additional instructions provided along the way. :books:
 5. When ready, create a new file (in a new haskell directory), `first-haskell.hs`.
-6. Open `first-haskell.hs` in your editor and type ```hs putStrLn "Hello, World!"``` and save.
+6. Open `first-haskell.hs` in your editor and type  
+```hs putStrLn "Hello, World!"
+``` and save.
 7. Type `ghci` to begin interactive session (`:quit` , `:q` or CTRL + d to exit session).
 8. Type `:load first-haskell` to load in your new file!  
 <hr>
