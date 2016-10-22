@@ -7,7 +7,8 @@
 4. Follow any additional instructions provided along the way. :books:
 5. When ready, create a new file (in a new haskell directory), `first-haskell.hs`.
 6. Type `ghci` to begin interactive session (`:quit` , `:q` or CTRL + d to exit session).
-7. Type `:load first-haskell` to load in your new file! 
+7. Type `:load first-haskell` to load in your new file!  
+<hr>
 
 These are comments in haskell:
 ```hs
